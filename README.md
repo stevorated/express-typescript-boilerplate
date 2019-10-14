@@ -1,4 +1,4 @@
-==== node-express-typescript ====
+==== express typescript boilerplate ====
 
 node-express-typescript boilerplate
 
